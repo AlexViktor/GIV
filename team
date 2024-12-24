@@ -1,0 +1,40 @@
+{
+  "voiceactors": [
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/5.jpg",
+      "link": "https://t.me/huerman",
+      "boosty": "https://t.me/over_link",
+      "name": "huerman",
+      "description": "Озвучка Чиси и Инь Линь"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/1.jpg",
+      "link": "https://t.me/asmrdiel",
+      "boosty": "https://t.me/over_link",
+      "name": "Asmrdiel",
+      "description": "Озвучка Цзияна"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/2.jpg",
+      "link": "https://t.me/wutheringwaves",
+      "boosty": "https://t.me/over_link",
+      "name": "-",
+      "description": "-"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/3.jpg",
+      "link": "https://www.youtube.com/channel/UCqz-zpwCqPpjginGk4hMfDg",
+      "boosty": "https://t.me/over_link",
+      "name": "ReDSmaiL",
+      "description": "Озвучка Лин Яна"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/6.jpg",
+      "link": "https://t.me/lilisa_gu",
+      "boosty": "https://t.me/over_link",
+      "name": "lilisa",
+      "description": "Озвучка Цинси"
+    }
+    
+  ]
+}
