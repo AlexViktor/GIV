@@ -29,11 +29,18 @@
       "description": "Главный звукарь, охвучивал Невиллета"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/5.jpg",
-      "link": "https://t.me/lilisa_gu",
-      "boosty": "https://t.me/over_link",
-      "name": "lilisa",
-      "description": "Озвучка Цинси"
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/5.png",
+      "link": " https://t.me/YuriWinnight",
+      "boosty": "https://boosty.to/yuriwinnight",
+      "name": "Yuri Winnight",
+      "description": "Озвучка Сёгун Райдэн (Баал)"
+    },
+ {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/6.png",
+      "link": "https://t.me/derdrok",
+      "boosty": "https://boosty.to/derdrok2",
+      "name": "Дрок",
+      "description": "Озвучка Альбедо"
     }
     
   ]
