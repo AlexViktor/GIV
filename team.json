@@ -1,5 +1,4 @@
-{
-  "voiceactors": [
+"voiceactors": [
         {
       "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/1.jpg",
       "link": "https://t.me/over_link",
@@ -76,6 +75,78 @@
       "boosty": "https://boosty.to/darisu",
       "name": "Darisu",
       "description": "Озвучка Эмилии"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/12.jpg",
+      "link": "https://t.me/logistosuss",
+      "boosty": "https://boosty.to/logistosus",
+      "name": "Екатерина Вдовик",
+      "description": "Озвучка Арлекино"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/13.jpg",
+      "link": "https://t.me/SovaSiadub",
+      "boosty": "https://boosty.to/sovasia",
+      "name": "Софья Бажанова (SovaSia)",
+      "description": "Озвучка Беннета"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/14.jpg",
+      "link": "https://t.me/chingworks",
+      "boosty": "https://boosty.to/chingvoicee",
+      "name": "Chiing",
+      "description": "Озвучка Ка Мина"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/15.jpg",
+      "link": "https://t.me/lilisa_gu",
+      "boosty": "https://boosty.to/lilisa",
+      "name": "Lilisa",
+      "description": "Озвучка Моны"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/16.jpg",
+      "link": "https://t.me/SeidjiYno",
+      "boosty": "https://boosty.to/shinoriactor/donate",
+      "name": "Seidji",
+      "description": "Озвучка Сайно"
+    },
+
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/17.jpg",
+      "link": "https://t.me/enchaart",
+      "boosty": "https://boosty.to/yumeyumiii",
+      "name": "Инна Летягина (yumeyumiii)",
+      "description": "Озвучка Гань Юй"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/18.jpg",
+      "link": "https://vk.com/murmirai",
+      "boosty": "https://boosty.to/savayaka/donate",
+      "name": "MiraMur",
+      "description": "Озвучка Шень Хэ"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/19.jpg",
+      "link": "https://witchcvn.carrd.co",
+      "boosty": "https://boosty.to/witchcvn",
+      "name": "Rey",
+      "description": "Озвучка Бэй Доу"
+    },
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/20.jpg",
+      "link": "https://t.me/libertina98",
+      "boosty": "https://boosty.to/libertina98/donate",
+      "name": "Libertina",
+      "description": "Озвучка Эмбер"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/GIV/refs/heads/main/ava/21.jpg",
+      "link": "https://t.me/SakuramiMitsuka",
+      "boosty": "https://boosty.to/savayaka/donate",
+      "name": "Елизавета Бирюкова",
+      "description": "Озвучка Кли"
     },
   ]
 }
